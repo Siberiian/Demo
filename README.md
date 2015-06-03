@@ -1,7 +1,7 @@
 
 #TIM HAZARD
 
-##Judul Presentasi : Typhography
+ > Judul Presentasi : Typhography
 
 #Informasi TIM
  > Anggota Kelompok:
